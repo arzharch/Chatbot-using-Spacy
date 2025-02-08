@@ -10,13 +10,14 @@ In this project, we’ve built a conversational chatbot using Spacy — a cuttin
 Text classification using Spacy's deep learning models.
 Intent recognition for various user inputs.
 Ability to customize and add more intents easily.
+Weather information update: The chatbot can now provide weather-related responses when asked!
 Easy-to-understand code with detailed explanations.
-🛠️ Technologies Used
-Spacy: For natural language processing and training machine learning models.
-Python: The heart of this project — coding the logic for our chatbot.
 
 
 💡 How It Works
 Training: The bot is trained using sample data containing intents (such as "greeting", "goodbye", etc.) and their corresponding responses.
 Natural Language Understanding: Spacy's NLP model is used to parse and understand your input.
 Intent Recognition: Based on what you say, the bot identifies your intent and gives an appropriate response.
+Weather Information: The bot now provides weather-related responses! Ask the bot about the weather, and it will give you a basic response related to weather queries (like "What's the weather today?" or "Is it raining?").
+
+![image](https://github.com/user-attachments/assets/7a4f562d-2c3f-4a07-8daa-8894c49ba4e0)
